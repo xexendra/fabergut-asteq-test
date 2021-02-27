@@ -1,1 +1,1 @@
-https://xexendra.github.io/fabergut-asteq-test/.
+https://xexendra.github.io/fabergut-asteq-test
